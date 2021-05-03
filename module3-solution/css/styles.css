@@ -1,0 +1,28 @@
+.navbar {
+	background-color: #761D4E;
+}
+.navbar-style {
+	text-align: center;
+}
+.large-container {
+	height: 1000px;
+}
+.div-style {
+	background-color: #cccccc;
+	padding: 10px;
+	margin: 5px;
+}
+.navbar-brand {
+	font-size: 3em;
+	font-family: serif;
+}
+.navbar-default .navbar-brand {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #ffffff;
+	border-bottom: 1px solid;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: #cccccc;
+}
